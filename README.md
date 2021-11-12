@@ -3,7 +3,7 @@
 I am a Software Developer from the Philippines 🇵🇭
 
 - 🔭 I’m currently working for [XtendOps](https://github.com/xtendops-developers)
-- 🌱 I’m currently learning [MongoDB](https://www.mongodb.com/what-is-mongodb) through [MongoDB in Action](http://img105.job1001.com/upload/adminnew/2015-04-07/1428394945-PHQK1Q5.pdf)
+- 🌱 I’m currently learning [Haskell](https://wiki.haskell.org/Haskell) through [Learn You a Haskell](http://learnyouahaskell.com/introduction)
 - 💡 Technologies I love: React, Svelte, Node, Fastify, Haskell, Rust, Linux, Docker, Github, & Neovim
 - ⚡ Fun fact: I love to play music as well
 
